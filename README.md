@@ -16,11 +16,6 @@
   📱 Mobile &nbsp;•&nbsp; 🌐 Web &nbsp;•&nbsp; 🪟 Windows &nbsp;•&nbsp; 🍎 macOS &nbsp;•&nbsp; 🐧 Linux
 </p>
 
-<p align="center">
-  <a href="https://flutter-dashboard.codemagic.app/#/">
-    🚀 <strong>Live Demo</strong>
-  </a>
-</p>
 
 ---
 
